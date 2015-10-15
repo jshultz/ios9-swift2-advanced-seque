@@ -13,6 +13,7 @@
 		DE91360E1BCFD6EE00CE878D /* advanced_seque.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = DE91360C1BCFD6EE00CE878D /* advanced_seque.xcdatamodeld */; };
 		DE9136101BCFD6EE00CE878D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE91360F1BCFD6EE00CE878D /* Assets.xcassets */; };
 		DE9136131BCFD6EE00CE878D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE9136111BCFD6EE00CE878D /* LaunchScreen.storyboard */; };
+		DE91361B1BCFD89800CE878D /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE91361A1BCFD89800CE878D /* TableViewController.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DE91360F1BCFD6EE00CE878D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DE9136121BCFD6EE00CE878D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DE9136141BCFD6EE00CE878D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DE91361A1BCFD89800CE878D /* TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				DE9136051BCFD6EE00CE878D /* AppDelegate.swift */,
 				DE9136071BCFD6EE00CE878D /* ViewController.swift */,
 				DE9136091BCFD6EE00CE878D /* Main.storyboard */,
+				DE91361A1BCFD89800CE878D /* TableViewController.swift */,
 				DE91360F1BCFD6EE00CE878D /* Assets.xcassets */,
 				DE9136111BCFD6EE00CE878D /* LaunchScreen.storyboard */,
 				DE9136141BCFD6EE00CE878D /* Info.plist */,
@@ -140,6 +143,7 @@
 				DE9136081BCFD6EE00CE878D /* ViewController.swift in Sources */,
 				DE91360E1BCFD6EE00CE878D /* advanced_seque.xcdatamodeld in Sources */,
 				DE9136061BCFD6EE00CE878D /* AppDelegate.swift in Sources */,
+				DE91361B1BCFD89800CE878D /* TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
